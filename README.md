@@ -1,5 +1,2 @@
-# Welcome to Microblog!
-
-This is an example application featured in my [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). See the tutorial for instructions on how to work with it.
-# BlogWebsite
-# BlogWebsite
+Welcome to My Blog Website!
+If you have any doubts you can mail me at brahmbhattnisarg@outlook.com
